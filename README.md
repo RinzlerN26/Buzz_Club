@@ -72,6 +72,6 @@ PS: If you're going to download the full project please use your on firebase API
 * place `google-services.json` into `/android/app/`.
 * Create an app within your Firebase instance for Android, with your app package name
 
-- You can also use my firebase if you wish!
 
-### ▷ Author: Ritik
+
+
