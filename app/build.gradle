@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.instaapp"
+        applicationId "com.example.club"
         minSdkVersion 19
         targetSdkVersion 33
         versionCode 1
@@ -53,7 +53,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-database-ktx'
     implementation 'com.google.firebase:firebase-storage-ktx'
     implementation 'com.squareup.picasso:picasso:2.71828'
-    implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
+    implementation 'com.vanniktech:android-image-cropper:4.3.3'
     implementation 'com.github.shts:StoriesProgressView:3.0.0'
     implementation 'com.android.support:multidex:2.0.0'
     testImplementation 'junit:junit:4.12'

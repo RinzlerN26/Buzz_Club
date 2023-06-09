@@ -1,33 +1,71 @@
 {
   "project_info": {
-    "project_number": "320355633920",
-    "project_id": "insta-clone-4123e",
-    "storage_bucket": "insta-clone-4123e.appspot.com"
+    "project_number": "118808505516",
+    "firebase_url": "https://buzzclub-7272b-default-rtdb.firebaseio.com",
+    "project_id": "buzzclub-7272b",
+    "storage_bucket": "buzzclub-7272b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:320355633920:android:d3509246652d50d8c681e5",
+        "mobilesdk_app_id": "1:118808505516:android:035531b1ff8f5ff8e38309",
         "android_client_info": {
-          "package_name": "com.example.instaapp"
+          "package_name": "com.buzz.club"
         }
       },
       "oauth_client": [
         {
-          "client_id": "320355633920-td8oaipk3orcnjadgfl4rr3jvfm33be6.apps.googleusercontent.com",
+          "client_id": "118808505516-6km1b5njuhvt1q3ueqa32mjbbnutqf2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buzz.club",
+            "certificate_hash": "543826b293d69324e2c2bde478aa8f48348865d2"
+          }
+        },
+        {
+          "client_id": "118808505516-s8kl1f79esrvjfbkqp9vhm107u1qg1hi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDjwSTo76KVSFWnFrNmsqB5TBdIv9MD3a0"
+          "current_key": "AIzaSyADvaDv2Y7YWo7k-Lioulo_s5IHyzr23X0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "320355633920-td8oaipk3orcnjadgfl4rr3jvfm33be6.apps.googleusercontent.com",
+              "client_id": "118808505516-s8kl1f79esrvjfbkqp9vhm107u1qg1hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118808505516:android:4a46865bb186d57fe38309",
+        "android_client_info": {
+          "package_name": "com.example.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118808505516-s8kl1f79esrvjfbkqp9vhm107u1qg1hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvaDv2Y7YWo7k-Lioulo_s5IHyzr23X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118808505516-s8kl1f79esrvjfbkqp9vhm107u1qg1hi.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
